@@ -1,1 +1,1 @@
-Nosso projeto de fato vai ser desenvolvido aqui
+Nosso projeto está sendo desenvolvido aqui !
